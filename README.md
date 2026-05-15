@@ -1,24 +1,17 @@
-
-````md 
+````md
 # TopSpeech Health — Daily Lesson Experience
 
 A Duolingo-inspired speech therapy lesson prototype built for the TopSpeech Health engineering assignment.
 
+---
+
 ## Live Demo
 
-Add your deployed Vercel link here.
-
-Example:
-
-https://topspeech-health.vercel.app
+https://topspeech-health-assignment.vercel.app/
 
 ---
 
 ## GitHub Repository
-
-Add your GitHub repository link here.
-
-Example:
 
 https://github.com/kishan-kumar-dev/topspeech-health-assignment
 
@@ -31,6 +24,7 @@ This project explores a mobile-first daily lesson flow for speech therapy focuse
 The experience is inspired by Duolingo’s lesson progression system, but redesigned for a healthcare context where emotional safety and confidence-building are important.
 
 The prototype includes:
+
 - Interactive lesson cards
 - Progress tracking
 - Smooth transitions and animations
